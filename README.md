@@ -16,7 +16,7 @@ Clean and simple user interface
 Works directly in the browser
 
 Fast and lightweight
-<img width="123" height="44" alt="image" src="https://github.com/user-attachments/assets/62f7ea9f-2593-47d2-a112-02480dd6b6b5" />
-<img width="200" height="42" alt="image" src="https://github.com/user-attachments/assets/3aa9c699-2a2c-4c05-8d4c-c628569a7bf1" />
+<img width="123" height="404" alt="image" src="https://github.com/user-attachments/assets/62f7ea9f-2593-47d2-a112-02480dd6b6b5" />
+<img width="200" height="402" alt="image" src="https://github.com/user-attachments/assets/3aa9c699-2a2c-4c05-8d4c-c628569a7bf1" />
 
 
